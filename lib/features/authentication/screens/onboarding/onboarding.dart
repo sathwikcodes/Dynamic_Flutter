@@ -1,3 +1,7 @@
+import 'package:ecommerce/features/authentication/screens/onboarding/widgets/onboarding_dot_navigation.dart';
+import 'package:ecommerce/features/authentication/screens/onboarding/widgets/onboarding_next.dart';
+import 'package:ecommerce/features/authentication/screens/onboarding/widgets/onboarding_page.dart';
+import 'package:ecommerce/features/authentication/screens/onboarding/widgets/onboarding_skip.dart';
 import 'package:ecommerce/utils/constants/image_strings.dart';
 import 'package:ecommerce/utils/constants/sizes.dart';
 import 'package:ecommerce/utils/constants/text_strings.dart';
@@ -9,11 +13,8 @@ import 'package:get/get_core/src/get_main.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import 'package:iconsax/iconsax.dart';
 import '../../../../utils/constants/colors.dart';
-import '../widgets/onboarding_dot_navigation.dart';
-import '../widgets/onboarding_next.dart';
-import '../widgets/onboarding_page.dart';
+
 import '../../controllers/onboarding_controller.dart';
-import '../widgets/onboarding_skip.dart';
 
 class OnBBoardingScreen extends StatelessWidget {
   const OnBBoardingScreen({super.key});
