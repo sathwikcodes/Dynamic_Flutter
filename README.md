@@ -40,7 +40,6 @@ git clone https://github.com/sathwikcodes/Dynamic_Flutter
 ![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(215).png)
 ![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(216).png)
 ![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(217).png)
-
 ![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(219).png)
 ![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(220).png)
 
