@@ -53,7 +53,7 @@ If you have any feedback, questions, or need support with the E-Commerce Flutter
 
 ## Credits
 
-- Project developed by [Your Name]
+- Project developed by [Sathwik Batta]
 - Technologies used:
 - Flutter
 - Firebase
