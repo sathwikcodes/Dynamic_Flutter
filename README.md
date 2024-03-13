@@ -19,7 +19,7 @@ Our E-Commerce Flutter Application offers a user-friendly interface for browsing
 ## Getting Started
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/sathwikcodes/Dynamic_Flutter
 
 2. **Set Up Firebase**: Create a Firebase project on the [Firebase Console](https://console.firebase.google.com/) and configure Firebase Authentication, Firestore, and Cloud Functions if needed.
 
@@ -37,12 +37,16 @@ git clone https://github.com/your-username/your-repository.git
 
 ## Screenshots
 
-![Screenshot](https://example.com/screenshot1.png)
-![Screenshot](https://example.com/screenshot2.png)
+![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(215).png)
+![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(216).png)
+![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(217).png)
+
+![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(219).png)
+![Screenshot](https://github.com/sathwikcodes/Dynamic_Flutter/blob/main/Screenshot%20(220).png)
 
 ## Contributing
 
-Contributions to the E-Commerce Flutter Application are welcome! If you have any ideas for new features, improvements, or bug fixes, please feel free to [open an issue](https://github.com/your-username/your-repository/issues) or submit a pull request.
+Contributions to the E-Commerce Flutter Application are welcome! If you have any ideas for new features, improvements, or bug fixes, please feel free to [open an issue](https://github.com/sathwikcodes/Dynamic_Flutter/issues) or submit a pull request.
 
 ## Feedback and Support
 
